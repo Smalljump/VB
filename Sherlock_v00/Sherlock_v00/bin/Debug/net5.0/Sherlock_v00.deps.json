@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sherlock_v00/1.0.0": {
+        "runtime": {
+          "Sherlock_v00.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sherlock_v00/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

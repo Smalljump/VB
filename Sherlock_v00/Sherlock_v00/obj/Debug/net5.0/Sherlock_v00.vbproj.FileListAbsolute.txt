@@ -1,0 +1,16 @@
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\Sherlock_v00.vbprojAssemblyReference.cache
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\Sherlock_v00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\Sherlock_v00.AssemblyInfoInputs.cache
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\Sherlock_v00.AssemblyInfo.vb
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\Sherlock_v00.vbproj.CoreCompileInputs.cache
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\bin\Debug\net5.0\Sherlock_v00.exe
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\bin\Debug\net5.0\Sherlock_v00.deps.json
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\bin\Debug\net5.0\Sherlock_v00.runtimeconfig.json
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\bin\Debug\net5.0\Sherlock_v00.runtimeconfig.dev.json
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\bin\Debug\net5.0\Sherlock_v00.dll
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\bin\Debug\net5.0\ref\Sherlock_v00.dll
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\bin\Debug\net5.0\Sherlock_v00.pdb
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\Sherlock_v00.dll
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\ref\Sherlock_v00.dll
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\Sherlock_v00.pdb
+C:\Users\ebrivas\source\repos\Sherlock_v00\Sherlock_v00\obj\Debug\net5.0\Sherlock_v00.genruntimeconfig.cache

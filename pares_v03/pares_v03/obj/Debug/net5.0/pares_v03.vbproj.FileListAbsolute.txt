@@ -1,0 +1,12 @@
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\bin\Debug\net5.0\pares_v03.deps.json
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\bin\Debug\net5.0\pares_v03.dll
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\bin\Debug\net5.0\ref\pares_v03.dll
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\bin\Debug\net5.0\pares_v03.pdb
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.vbprojAssemblyReference.cache
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.AssemblyInfoInputs.cache
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.AssemblyInfo.vb
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.vbproj.CoreCompileInputs.cache
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.dll
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\ref\pares_v03.dll
+C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.pdb
