@@ -1,5 +1,5 @@
 Public Class ClasePares
-    Public Function [Compara](sArreglo As Integer(), sDiferencia As Integer) As String
+    Public Shared Function [Compara](sArreglo As Integer(), sDiferencia As Integer) As String
         Dim cumplen As Integer = 0
         Dim letrero As String
 
@@ -21,7 +21,7 @@ Public Class ClasePares
 
     End Function
 
-    Function Repetidos(arr As Integer(), clave As Integer, posicion As Integer) As Integer
+    Shared Function Repetidos(arr As Integer(), clave As Integer, posicion As Integer) As Integer
         Dim x As Integer = posicion
         Dim qty As Integer = 0
 

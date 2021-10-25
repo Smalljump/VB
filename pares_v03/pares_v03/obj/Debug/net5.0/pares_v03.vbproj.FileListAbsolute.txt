@@ -10,3 +10,15 @@ C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.vbp
 C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.dll
 C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\ref\pares_v03.dll
 C:\Users\ebrivas\source\repos\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.pdb
+C:\VB\pares_v03\pares_v03\bin\Debug\net5.0\pares_v03.deps.json
+C:\VB\pares_v03\pares_v03\bin\Debug\net5.0\pares_v03.dll
+C:\VB\pares_v03\pares_v03\bin\Debug\net5.0\ref\pares_v03.dll
+C:\VB\pares_v03\pares_v03\bin\Debug\net5.0\pares_v03.pdb
+C:\VB\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.vbprojAssemblyReference.cache
+C:\VB\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.AssemblyInfoInputs.cache
+C:\VB\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.AssemblyInfo.vb
+C:\VB\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.vbproj.CoreCompileInputs.cache
+C:\VB\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.dll
+C:\VB\pares_v03\pares_v03\obj\Debug\net5.0\ref\pares_v03.dll
+C:\VB\pares_v03\pares_v03\obj\Debug\net5.0\pares_v03.pdb
